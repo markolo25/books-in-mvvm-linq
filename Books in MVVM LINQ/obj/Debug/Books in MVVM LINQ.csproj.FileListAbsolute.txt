@@ -1,0 +1,34 @@
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Books in MVVM LINQ.exe.config
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Books in MVVM LINQ.exe
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Books in MVVM LINQ.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\System.Windows.Interactivity.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ.csprojResolveAssemblyReference.cache
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\MainWindow.g.cs
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\App.g.cs
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ_MarkupCompile.cache
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ_MarkupCompile.lref
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\App.baml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\MainWindow.baml
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ.g.resources
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books_in_MVVM_LINQ.Properties.Resources.resources
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ.csproj.GenerateResource.Cache
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ.exe
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ.pdb
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\obj\Debug\Books in MVVM LINQ_Content.g.cs
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\EntityFramework.dll
+c:\users\mark mendoza\documents\visual studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\EntityFramework.xml
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Books.mdf
+C:\Users\Mark Mendoza\Documents\Visual Studio 2015\Projects\Books in MVVM LINQ\Books in MVVM LINQ\bin\Debug\Books_log.ldf

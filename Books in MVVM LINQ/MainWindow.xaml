@@ -1,0 +1,18 @@
+﻿<Window x:Class="Books_in_MVVM_LINQ.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Books_in_MVVM_LINQ"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="536" Width="1024"
+        DataContext="{Binding Main, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="405*"/>
+            <ColumnDefinition Width="112*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="textBox" Text="{Binding outputTextBox}" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
